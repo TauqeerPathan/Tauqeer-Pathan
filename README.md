@@ -3,7 +3,7 @@
 Hi! I'm **Tauqeer Pathan**, a passionate Java Developer with experience in building web applications and solving complex programming challenges.
 
 ## 🚀 About Me
-- 🎓 I'm currently pursuing a BSc in Computer Science.
+- 🎓 I have completed my Graduation as a Mechanical Engineering.
 - 💻 Java Developer with hands-on experience in **HTML**, **CSS**, **JavaScript**, **Oracle 19c**, **Spring Boot** & **ReactJS**.
 - 🌍 Based in Nagpur, Maharashtra, India.
 - 📅 Graduated in Mechanical Engineering in 2023, now fully focusing on my Computer Science studies and software development.
