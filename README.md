@@ -33,5 +33,5 @@ An interactive puzzle game that teaches basic Java programming skills, set in th
 - Microservices architecture with Spring Boot
 
 ## 📫 How to reach me:
-- **Email   :** tauqeer2000pathan@gmail.com
+- **Email   :** tauqeerpathan1@gmail.com
 - **LinkedIn:** www.linkedin.com/in/tauqeer-pathan-8458b7191
