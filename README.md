@@ -1,37 +1,59 @@
 # 👨‍💻 Tauqeer Pathan
 
-Hi! I'm **Tauqeer Pathan**, a passionate Java Developer with experience in building web applications and solving complex programming challenges.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauqeer-pathan-8458b7191) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tauqeerpathan1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
-## 🚀 About Me
-- 🎓 I have completed my Graduation as a Mechanical Engineering.
-- 💻 Java Developer with hands-on experience in **HTML**, **CSS**, **JavaScript**, **Oracle 19c**, **Spring Boot** & **ReactJS**.
-- 🌍 Based in Nagpur, Maharashtra, India.
-- 📅 Graduated in Mechanical Engineering in 2023, now fully focusing on my Computer Science studies and software development.
-- ⚡ Fun fact: I love playing Cricket and my favorite player is **Ms Dhoni!**
+---
+
+## 🎯 Career Objective
+
+Aspiring Full Stack Developer with a solid foundation in Java and a passion for building scalable, user-friendly web applications. Eager to leverage technical skills and problem-solving abilities to contribute effectively within a dynamic development team.
+
+---
+
+## 📝 Summary
+
+Detail-oriented Full Stack Developer with proven experience in designing and delivering dynamic web applications. Skilled in both front-end and back-end technologies, including API development, user authentication, and database management. Committed to writing clean, maintainable code and continuously enhancing technical expertise.
+
+---
+
+## 💡 About Me
+
+I am a dedicated Full Stack Developer with expertise in Java and a strong track record of developing scalable, high-quality web applications. I excel at integrating front-end and back-end technologies to create seamless user experiences and robust backend solutions. Passionate about problem-solving and continuous improvement, I thrive in collaborative environments that value innovation and excellence. Based in Nagpur, I am committed to contributing meaningful software solutions while advancing my skills in the ever-evolving tech landscape.
+
+---
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Java, JavaScript, HTML, CSS
-- **Frameworks:** Spring Boot, ReactJS
-- **Databases:** Oracle 19c
-- **Tools & Technologies:** GitHub, VS Code, IntelliJ IDEA, Eclips
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 🔥 Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-A brief description of your project. Include key technologies used, and highlight any unique features.
+### [ClothingShop – E-Commerce Web Application](https://github.com/yourusername/clothingshop)  
+**Tech Stack:** Java, Spring Boot, Spring MVC, Spring Data JPA, Oracle, HTML, CSS, JavaScript  
+Built a fully functional e-commerce web app with user and admin features. Developed secure login, product management, and dynamic product display modules. Designed a responsive UI for a smooth experience across devices. Ensured application scalability and clean architecture.  
+**Outcome:** Enhanced real-time problem-solving skills and gained experience in end-to-end MVC layered development.
 
-### [Project Name 2](https://github.com/yourusername/project2)
-A brief description of another project. Mention the problem it solves or how it enhances user experience.
+### [Nagpur-themed Puzzle Game (Coming Soon)](https://github.com/yourusername/nagpur-puzzle-game)  
+An interactive puzzle game designed to teach basic Java programming skills through fun challenges inspired by the city of Nagpur.
 
-### [Nagpur-themed Puzzle Game (Coming Soon)](https://github.com/yourusername/nagpur-puzzle-game)
-An interactive puzzle game that teaches basic Java programming skills, set in the culturally rich city of Nagpur.
+---
 
-## 🌱 Currently Learning
-- Advanced Java Programming
-- Cloud Computing
-- Microservices architecture with Spring Boot
+## 📫 How to Reach Me
 
-## 📫 How to reach me:
-- **Email   :** tauqeerpathan1@gmail.com
-- **LinkedIn:** www.linkedin.com/in/tauqeer-pathan-8458b7191
+- **Email:** tauqeerpathan1@gmail.com  
+- **LinkedIn:** [linkedin.com/in/tauqeer-pathan-8458b7191](https://www.linkedin.com/in/tauqeer-pathan-8458b7191)  
+
+---
+
+Thanks for stopping by! 😊  
